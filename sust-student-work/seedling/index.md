@@ -16,7 +16,7 @@ tags:
     - campus
 ---
 
-# A Seedling Essay
+# A Seedling Essay - Gerald Klein
 This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
 
 **What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
@@ -24,7 +24,7 @@ This essay demonstrates the **simplest ScrollStory approach**—perfect if you'r
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## Your First Section Heading
+## Ian Colburn -- Oral History
 {% include images/figure.html
 class="right"
 width="48%"
@@ -43,10 +43,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
 
 
-## Section Headings Create Visual Breaks
+## Ian Colburn 
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
-**Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+--Why this matters for students:-- Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
