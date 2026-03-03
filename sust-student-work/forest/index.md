@@ -15,13 +15,8 @@ tags:
   - music
 ---
 
-# A Forest Essay
-This essay demonstrates **advanced ScrollStory features**—everything from Seedling and Sapling, plus background image switching, juxtapose comparisons, and multi-section scrollyboxes. This is the full cinematic experience.
-
-**What makes this a "Forest" essay?** It includes every component Xanthan offers: all the basics (headings, images, footnotes), Sapling features (scrollyboxes, carousels), plus advanced techniques for complex visual narratives. Use this when you want maximum storytelling power.
-
-The text below explains each advanced feature as you encounter it, mixed with some filler to show pacing.
-
+# Ian Colburn: Oral History Along the Middle Rio Grande
+Ian Colburn is a farmer in the Middle Rio Grande
 
 ## All the Basics Still Work
 {% include images/figure.html
