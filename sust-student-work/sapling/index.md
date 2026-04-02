@@ -3,9 +3,9 @@ title: Sapling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/sherrif-kermit.png
-thumbnail: images/sapling-card.png
-summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
+header-image: images/sherrif-kermit.jpg
+thumbnail: images/sherrif-kermit.jpg
+summary: Kermit the Frog here...
 header-title:
 header-position: 0px
 toc-section: second
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
-  image-path="images/mvh-women-supervision.jpg"
+  image-path="images/sherrif-kermit.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
