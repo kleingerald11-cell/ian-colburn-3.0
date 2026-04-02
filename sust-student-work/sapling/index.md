@@ -3,7 +3,7 @@ title: Sapling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/sapling-card.png
+header-image: images/sherrif-kermit.png
 thumbnail: images/sapling-card.png
 summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
