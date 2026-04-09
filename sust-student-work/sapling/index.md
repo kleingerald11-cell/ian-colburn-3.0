@@ -16,15 +16,14 @@ tags:
     - nature
 ---
 
-# Where is Kermit? 
-This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+# What Is Farmsong? 
+ **Ian Colburn at Farmsong**—
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
-
-The text below includes both explanations and filler content to show how these components work in practice.
+**Ian Colburn's Story** 
 
 
-## Building on Seedling Basics
+
+## Continued Content
 {% include images/figure.html
 class="right"
 width="48%"
@@ -41,7 +40,7 @@ This layered approach is intentional. Master the basics, then add complexity inc
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
 
-## Your First Scrollybox
+## Multi Useage of Farm Space
 Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
