@@ -1,11 +1,11 @@
 ---
-title: Sapling
-author: Fred Gibbs
+title: Ian Colburn: singin' a 'Farmsong'
+author: Gerald Klein
 layout: scrollstory
 date: 2025-07-21
 header-image: images/sherrif-kermit.jpg
 thumbnail: images/sherrif-kermit.jpg
-summary: Kermit the Frog here...
+summary: How Farmsong came to be, and where its going
 header-title:
 header-position: 0px
 toc-section: second
