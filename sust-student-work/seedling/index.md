@@ -16,59 +16,70 @@ tags:
     - campus
 ---
 
-# A Seedling Essay - Gerald Klein
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+# **‘Farm of Song’** 
+[Title]
 
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+## Narrated by: 
+Ian Colburn, Farm of Song
+## Interviewed by: 
+Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
+## Web Profile by: 
+Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
-
-## Ian Colburn -- Oral History
-{% include images/figure.html
+# **Introduction**
+	![[image-path]]
+## **Who is Ian Colburn?**
+{% include images/IAN-COLBURN-PHOTO.jpg
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="MoGro Mobile Grocery Facebook. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
 image-path="images/mvh-history-stays.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
-
-[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
+	One of the Three co-owners and founders of Farm-of-Song. At the time of this interview Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community he met people from Southern New Mexico where he learned how to farm. After this experience, inspired he began forming long term relationships with his crew. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
 
-## Ian Colburn 
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+[^1]
 
---Why this matters for students:-- Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+[^1]:
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+## **How did Farm of Song come to be?**
+	A Cooperatively owned farm comprising 2.4 acres, 1.5 of which are in production; growing 30+ crops with organic practices. 
+[Audio Component?] 
+# **Education** 
+“Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
+[Quotation]
+Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
+[Body Text]
+# **Community Values**
+	"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes." (Ian Colburn) 
+	From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
+	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. 
+[Quotation]
+# **Federal Politics** 
+"New Mexico is like a colony within the country almost. We're exploited for our land and labor for military production. And I don't know how exactly the AG fits in or doesn't and how we can fight that or, you know, but I know that this sort of work is part of the peace economy that everyone here deserves." (Ian Coburn, pg.5)
+	[Quotation] 
+# **Ecology**
+	"Having a diversity of plants, there's a lot of different advantages, I guess, like when it comes to pollinators and habitat, you want different food sources and times of the year that they're being produced. When it comes to soil health, you want a diversity of plants and their roots growing for the same reason" 
+	[Quotation]
+Geographically, Albuquerque is isolated in a high desert and semi-arid region making the location unique for agriculture. Other challenges the farm face are the limited water resources, 
+	Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice.
+	[Body Text]
+# **Colonization of New Mexico**
+	"New Mexico is like a colony within the country almost. We're exploited for our land and labor for military production.” (Ian Colburn)
+[Quotation], [Scrolly Box?] 
+‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
+[Body Text]
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+# **Conclusion**
+## Why you should support ‘Farm of Song’?
+## Where can ‘Farm of Song’ produce be purchased?
+MoGro Mobile Grocery, Tiny Grocer ABQ. 
+[[https://www.mogro.net]], [[https://tinygrocerabq.com]] 
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-
-### Subsection Headings (Optional)
-If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
-
-**Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
-
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
