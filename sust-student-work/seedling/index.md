@@ -16,7 +16,7 @@ tags:
     - campus
 ---
 
-# **‘Farm of Song’** 
+# **Farm of Song** 
 [Title]
 
 ## Narrated by: 
@@ -38,11 +38,6 @@ image-path="images/mvh-history-stays.jpg"
 %}
 
 	One of the Three co-owners and founders of Farm-of-Song. At the time of this interview Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community he met people from Southern New Mexico where he learned how to farm. After this experience, inspired he began forming long term relationships with his crew. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
-
-
-[^1]
-
-[^1]:
 
 ## **How did Farm of Song come to be?**
 	A Cooperatively owned farm comprising 2.4 acres, 1.5 of which are in production; growing 30+ crops with organic practices. 
