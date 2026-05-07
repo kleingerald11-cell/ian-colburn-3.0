@@ -29,8 +29,8 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food Systems Practicum 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+caption="Photo From: MoGro Facebook (https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
 One of the Three co-owners and founders of Farm-of-Song. At the time of this interview Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community he met people from Southern New Mexico where he learned how to farm. After this experience, inspired he began forming long term relationships with his crew. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
@@ -38,42 +38,40 @@ One of the Three co-owners and founders of Farm-of-Song. At the time of this int
 
 [^note1]: Footnotes work in Forest essays exactly as they do everywhere else.
 
-The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis.[^note2]
-
 [^note2]: You can use footnotes throughout Forest essays for citations and elaboration.
 
-
-## Juxtapose: Before/After Comparisons
-Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
-
-{% include images/juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
-%}
-
-**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
-
-**Use cases:**
-- Historical photos showing change over time
-- Different views of the same location
-- Comparing historical documents or maps
-- Revealing differences that might be subtle
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
+## **How did Farm of Song come to be?**
+	A Cooperatively owned farm comprising 2.4 acres, 1.5 of which are in production; growing 30+ crops with organic practices. 
+[Audio Component?] 
+# **Education** 
+“Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
+[Quotation]
+Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
+[Body Text]
+# **Community Values**
+	"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes." (Ian Colburn) 
+	Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for birthdays, gatherings, and parties
+	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. 
+[Quotation]
+# **Federal Politics** 
+"New Mexico is like a colony within the country almost. We're exploited for our land and labor for military production. And I don't know how exactly the AG fits in or doesn't and how we can fight that or, you know, but I know that this sort of work is part of the peace economy that everyone here deserves." (Ian Coburn, pg.5)
+	[Quotation] 
 
 
-## Standard Scrollybox (From Sapling)
-The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
+## Colonization of New Mexico
+	"New Mexico is like a colony within the country almost. We're exploited for our land and labor for military production.” (Ian Colburn)
+[Quotation], [Scrolly Box?] 
+
+Farm of Song Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
+[Body Text]
+
 
 {% include scrollybox/bg.html
   height="220vh"
   position="top"
   image-path="images/mvh-women-supervision.jpg"
   above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content=' "New Mexico is like a colony within the country almost. We're exploited for our land and labor for military production.” (Ian Colburn)'
 %}
 
 
