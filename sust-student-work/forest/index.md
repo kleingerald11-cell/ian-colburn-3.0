@@ -15,10 +15,17 @@ tags:
   - music
 ---
 
-# Ian Colburn: Oral History Along the Middle Rio Grande
-Ian Colburn is a farmer in the Middle Rio Grande
+# Farm of Song
 
-## All the Basics Still Work
+## Narrated by: 
+Ian Colburn, Farm of Song
+## Interviewed by: 
+Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
+## Web Profile by: 
+Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food Systems Practicum class
+
+
+## Who is Ian Colburn?
 {% include images/figure.html
 class="right"
 width="48%"
@@ -26,7 +33,8 @@ caption="Right-aligned images work exactly like Seedling and Sapling. Every skil
 image-path="images/mvh-history-stays.jpg"
 %}
 
-Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix simple images, footnotes, and section headings[^note1] with the advanced features we're about to show you.
+One of the Three co-owners and founders of Farm-of-Song. At the time of this interview Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community he met people from Southern New Mexico where he learned how to farm. After this experience, inspired he began forming long term relationships with his crew. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
+
 
 [^note1]: Footnotes work in Forest essays exactly as they do everywhere else.
 
