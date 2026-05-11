@@ -26,10 +26,11 @@ Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
 Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
 ## Who is Ian Colburn? 
+
 {% include images/figure.html
 class="left"
 width="60%"
-caption="From MoGro Mobile Grocery [Source](https://www.facebook.com/photo/?fbid=1390650313079337&set=ian-colburn-grew-up-in-albuquerque-and-started-working-on-vegetable-farms-in-201)"
+caption="From MoGro Mobile Grocery Facebook"
 image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
