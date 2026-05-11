@@ -3,8 +3,8 @@ title: Sapling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/sapling-card.png
-thumbnail: images/sapling-card.png
+header-image: images/farm-of-song-market-booth.png
+thumbnail: images/farm-of-song-market-booth.png
 summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
 header-position: 0px
