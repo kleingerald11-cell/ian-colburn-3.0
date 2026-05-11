@@ -29,7 +29,7 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Ian Colburn, From MoGro Mobile Grocery Facebook: [https://www.facebook.com/photo/?fbid=1390650313079337&set=ian-colburn-grew-up-in-albuquerque-and-started-working-on-vegetable-farms-in-201]"
+caption="Ian Colburn, From MoGro Mobile Grocery Facebook: https://www.facebook.com/photo/?fbid=1390650313079337&set=ian-colburn-grew-up-in-albuquerque-and-started-working-on-vegetable-farms-in-201"
 image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
@@ -47,11 +47,9 @@ The pull quote you just saw is created with a simple `include` command in Markdo
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
 # **Education** 
-“Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
-[Quotation]
+> “Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
+
 Our modern food systems are not in essence conducive to positive sustainable growth. Farm song understands that a future where smaller but more frequent food systems appear to support, and create community. 
 Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
 [Body Text]
