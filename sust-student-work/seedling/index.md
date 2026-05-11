@@ -23,6 +23,11 @@ This essay demonstrates the **simplest ScrollStory approach**—perfect if you'r
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
+<audio controls>
+  <source src="URL-to-your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ## Your First Section Heading
 {% include images/figure.html
