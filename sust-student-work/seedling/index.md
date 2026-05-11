@@ -39,23 +39,20 @@ Ian is one of the three co-owners and founders of Farm of -Song. At the time of 
 ## **How did Farm of Song come to be?**
 A Cooperatively owned farm comprising 2.4 acres, 1.5 of which are in production; growing 30+ crops with organic practices. 
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 
 # **Education** 
-> “Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
+> “Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” -(Ian Colburn)
 
 Our modern food systems are not in essence conducive to positive sustainable growth. Farm song understands that a future where smaller but more frequent food systems appear to support, and create community. 
 Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
 [Body Text]
 # **Community & Political Values**
-"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.”(Ian Colburn)
-	[Quotation]
+
+{% include typography/aside.html class="right" text="
+My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes. -(Ian Colburn)" %}
+[Quotation]
 	From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
 	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. He states he’s not sure how his farm can combat the big industry “[I] know that this sort of work is part of the peace economy that everyone here deserves."
 [Body] and [Quotation] 
