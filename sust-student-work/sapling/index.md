@@ -3,7 +3,7 @@ title: Sapling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/farm-of-song-market-booth.png
+header-image: images/farm-of-song-header-purple-produce.png
 thumbnail: images/farm-of-song-market-booth.png
 summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
@@ -25,25 +25,25 @@ Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
 ### Web Profile by: 
 Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
-## Building on Seedling Basics
+## Who is Ian Colburn? 
 {% include images/figure.html
 class="left"
 width="60%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="From MoGro Mobile Grocery [Source](https://www.facebook.com/photo/?fbid=1390650313079337&set=ian-colburn-grew-up-in-albuquerque-and-started-working-on-vegetable-farms-in-201)"
 image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
 ## **Who is Ian Colburn?**
 Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
-## Your First Scrollybox
-FILL TEXT
+#  **Colonization of New Mexico**
 
 {% include scrollybox/bg.html
   image-path="images/farm-of-song-potatoes.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' FILL TEXT'
+  box-content=' Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” 
+'
 %}
 
 
