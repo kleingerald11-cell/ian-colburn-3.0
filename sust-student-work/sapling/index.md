@@ -16,40 +16,39 @@ tags:
     - nature
 ---
 
-# **‘Farm of Song’** 
+# A Sapling Essay
+This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
 
-## Narrated by: 
-Ian Colburn, Farm of Song
-## Interviewed by: 
-Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
-## Web Profile by: 
-Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
+**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
 
-## **Who is Ian Colburn?**
-Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
+The text below includes both explanations and filler content to show how these components work in practice.
 
+
+## Building on Seedling Basics
 {% include images/figure.html
 class="right"
 width="48%"
 caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/IAN-COLBURN-PHOTO.jpg"
+image-path="images/mvh-history-stays.jpg"
 %}
 
-[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
 
 [^note1]: Footnotes continue to work exactly as before. All your Seedling skills carry forward.
 
+This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.
 
-# **Colonization of New Mexico**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
-‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 
+## Your First Scrollybox
+Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
   image-path="images/mvh-women-supervision.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' Acknowledging New Mexico's colonial past, “we're exploited for our land and labor for military production.” '
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
 
 
