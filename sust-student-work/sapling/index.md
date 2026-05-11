@@ -40,7 +40,7 @@ Ian is one of the three co-owners and founders of Farm of Song. At the time of t
 FILL TEXT
 
 {% include scrollybox/bg.html
-  image-path="images/mvh-women-supervision.jpg"
+  image-path="images/farm-of-song-potatoes.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content=' FILL TEXT'
