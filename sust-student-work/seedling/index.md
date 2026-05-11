@@ -61,8 +61,14 @@ Geographically, Albuquerque is isolated in a high desert and semi-arid region ma
 	Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. 
 
 ## **Colonization of New Mexico**
-Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” 
-[Quotation], [Scrolly Box?] 
+
+{% include scrollybox/bg.html
+  image-path="images/IAN-COLBURN-PHOTO.jpg"
+  above-box-space = "100vh"
+  below-box-space = "80vh"
+  box-content=' Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” '
+%}
+
 ‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 [Body Text]
 
