@@ -16,22 +16,25 @@ tags:
     - nature
 ---
 
-# A Sapling Essay
+# **Farm of Song** 
 
-The text below includes both explanations and filler content to show how these components work in practice.
-
+## Narrated by: 
+Ian Colburn, Farm of Song
+### Interviewed by: 
+Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
+### Web Profile by: 
+Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
 ## Building on Seedling Basics
 {% include images/figure.html
-class="right"
-width="48%"
+class="left"
+width="60%"
 caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
-FILL TEXT [^note1] FILL TEXT
-
-[^note1]: FOOTNOTE 1
+## **Who is Ian Colburn?**
+Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
 ## Your First Scrollybox
 FILL TEXT
@@ -47,6 +50,9 @@ FILL TEXT
 ## What Just Happened?
 FILL TEXT
 
+FILL TEXT [^note1] FILL TEXT
+
+[^note1]: FOOTNOTE 1
 
 ## Pull Quotes Still Work
 {% include typography/aside.html class="left" text="
