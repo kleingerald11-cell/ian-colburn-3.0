@@ -29,8 +29,8 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+caption="Ian Colburn, From MoGro Mobile Grocery Facebook: [https://www.facebook.com/photo/?fbid=1390650313079337&set=ian-colburn-grew-up-in-albuquerque-and-started-working-on-vegetable-farms-in-201]"
+image-path="images/IAN-COLBURN-PHOTO.jpg"
 %}
 
 
