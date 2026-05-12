@@ -59,6 +59,7 @@ Farm of song is exploring its potential as a multi-usage space, with Ian speakin
 # **Community & Political Values**
 "My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.”(Ian Colburn)
 
+{% include images/figure.html class="right" width="60%" caption="Farm of Song growers hold fresh produce" image-path="images/farm-of-song-turnip.png" %}
 
 From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
 
@@ -104,9 +105,7 @@ Farm of Song products are frequently available at local growers markets, namely 
 Farm of Song products can also be found at MoGro Mobile grocery and at the Tiny Grocer ABQ. Availability of Farm of song Products is seasonal not always constant. 
 MoGro Mobile Grocery, Tiny Grocer ABQ. [^note1]
 
-[^note1]:[[https://www.mogro.net]], [[https://tinygrocerabq.com]] 
-
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+[^note1]:https://www.mogro.net, https://tinygrocerabq.com
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
