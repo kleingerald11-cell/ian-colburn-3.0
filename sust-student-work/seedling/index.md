@@ -78,16 +78,13 @@ Farm of song values the pacing of the natural world and emulating the natural cy
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
 
-{% assign images =
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
+{% include images/figure.html
+class="left"
+width="85%"
+caption="Market booth at the Albuquerque Railyards Market, Farm of song Instagram"
+image-path="images/farm-of-song-market-booth.png"
 %}
 
-{% include images/carousel.html
-id="first"
-images=images
-%}
 
 
 # **Colonization of New Mexico**
@@ -98,15 +95,15 @@ Acknowledging New Mexico’ colonial past, “we're exploited for our land and l
 ‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 
 # **Conclusion**
+
 ## Why should you support ‘Farm of Song’?
 Farm of Song exemplifies the principles of Sustainable Local Food Systems development in New Mexico. Beyond growing crops with organic practices, Farm of Song has a community and forward thinking focused approach to their practices not only as a farm, but as a community space. 
+
 ## Where can ‘Farm of Song’ produce be purchased?
 Farm of Song products are frequently available at local growers markets, namely the Rail Yards market. 
 Farm of Song products can also be found at MoGro Mobile grocery and at the Tiny Grocer ABQ. Availability of Farm of song Products is seasonal not always constant. 
 MoGro Mobile Grocery, Tiny Grocer ABQ. [^note1]
 
 [^note1]:https://www.mogro.net, https://tinygrocerabq.com
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
