@@ -60,7 +60,8 @@ Geographically, Albuquerque is isolated in a high desert and semi-arid region ma
 	Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. 
 	
 # **Colonization of New Mexico**
-Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” 
+{% include typography/aside.html class="right" text="
+Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” " %}
 
 ‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 
@@ -76,9 +77,6 @@ MoGro Mobile Grocery, Tiny Grocer ABQ.
 [^1]
 
 [^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
