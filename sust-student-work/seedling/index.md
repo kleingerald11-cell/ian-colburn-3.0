@@ -26,14 +26,9 @@ Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
 ## Web Profile by: 
 Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
-
-
-
-
-
 # **Introduction**
 <audio controls>
-  <source src="{{ 'seedling/images/farm-of-song-audio.mp3' | relative_url }}" type="audio/mpeg">
+	<source src="/seedling/images/farm-of-song-audio.mp3" type="audio/mpeg">
 </audio>
 
 
