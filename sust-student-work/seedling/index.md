@@ -77,26 +77,9 @@ MoGro Mobile Grocery, Tiny Grocer ABQ.
 
 [^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
-
-**Already have a site based on a Xanthan template?** To make your own Seedling essay:
-
-1. **Duplicate this folder** (`scrollstories/seedling/`) and rename it for your topic
-2. **Replace the text** with your own content, keeping the same structure
-3. **Add your own images** to the `images/` folder
-4. **Update the header** at the top (title, author, date, etc.)
-5. **Preview and adjust** spacing, image sizes, and flow
-
-Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
-
-{% include scrollybox/auto-scroll.html speed=1.5 %}
+> This is a block quote,
