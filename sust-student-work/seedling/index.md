@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2026-5-12
 header-image: images/farm-of-song-header-purple-produce.png
 thumbnail: images/sapling-card.png
-summary: An oral hisotry of farming along the middle rio grande: Farm of Song
+summary: An oral hisotry of farming along the middle rio grande- Farm of Song
 header-title:
 header-position: 0px
 toc-section: second
