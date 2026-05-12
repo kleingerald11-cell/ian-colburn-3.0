@@ -27,9 +27,10 @@ Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
 Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
 
 # **Introduction**
-<audio controls>
-	<source src="/seedling/images/farm-of-song-audio.mp3" type="audio/mpeg">
-</audio>
+{% include media/audio.html
+  src="/assets/audio/farm-of-song-audio.mp3"
+%}
+
 
 
 ## **Who is Ian Colburn?**
