@@ -67,16 +67,18 @@ Although a small farm they do not compromise on their political values. Believin
 # **Ecology**
 Geographically, Albuquerque is isolated in a high desert and semi-arid region making the location unique for agriculture. Other challenges the farm faces are the limited water resources. Instead of adding pesticides or tilling to monocrops the farm focuses on diversity because “when it comes to soil health, you want a diversity of plants and their roots growing for the same reason". Creating room for pollinator habitats for their different food sources to thrive during different seasons. 
 
+Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds.
+
 {% include scrollybox/bg.html
   image-path="images/farm-of-song-potatoes.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. '
+  box-content='HELP ME'
 %}
 
 {% include images/figure.html
 class="left"
-width="85%"
+width="100%"
 caption="Market booth at the Albuquerque Railyards Market, Farm of song Instagram"
 image-path="images/farm-of-song-market-booth.png"
 %}
@@ -101,7 +103,7 @@ MoGro Mobile Grocery, Tiny Grocer ABQ. [^note1]
 
 # Bibliography 
 Images:
-	https://www.instagram.com/farmofsong/
-	https://www.facebook.com/mogromobile/
+https://www.instagram.com/farmofsong/
+https://www.facebook.com/mogromobile/
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
