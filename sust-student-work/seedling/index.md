@@ -1,11 +1,11 @@
 ---
-title: Sapling
-author: Fred Gibbs
+title: Farm of Song
+author: Gerald Klein and Rae Bretado
 layout: scrollstory
-date: 2025-07-21
+date: 2026-5-12
 header-image: images/farm-of-song-header-purple-produce.png
 thumbnail: images/sapling-card.png
-summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
+summary: An oral hisotry of farming along the middle rio grande: Farm of Song
 header-title:
 header-position: 0px
 toc-section: second
