@@ -28,7 +28,7 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
 
 # **Introduction**
 {% include media/audio.html
-  src="ian-colburn-3.0/sust-student-work/seedling/audio/farm-of-song-audio.mp3"
+  src="audio/farm-of-song-audio.mp3"
 %}
 
 
@@ -70,10 +70,8 @@ Geographically, Albuquerque is isolated in a high desert and semi-arid region ma
 	
 Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. 
 
-## Your First Scrollybox
-
 {% include scrollybox/bg.html
-  image-path="images/mvh-women-supervision.jpg"
+  image-path="images/farm-of-song-potatoes.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
