@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/seedling-card.png
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/seedling-card.png
+header-image: images/farm-of-song-header-purple-produce.png
 header-title:
 header-position: 0px
 toc-section: first
@@ -33,10 +33,9 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
 
 ## **Who is Ian Colburn?**
 {% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/IAN-COLBURN-PHOTO.jpg"
+class="left"
+width="60%"
+caption="Ian Colburn, from Mogro mobile grocery facebook page"
 %}
 Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
@@ -50,10 +49,13 @@ Our modern food systems are not in essence conducive to positive sustainable gro
 Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
 
 # **Community & Political Values**
-"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.”(Ian Colburn)
+
+{% include typography/aside.html class="left" text="
+"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.” -Ian Colburn
+ " %}
 
 From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
-	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. He states he’s not sure how his farm can combat the big industry “[I] know that this sort of work is part of the peace economy that everyone here deserves."
+	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. He states he’s not sure how his farm can combat the big industry “[I] know that this sort of work is part of the peace economy that everyone here deserves." - Ian Colburn
 
 # **Ecology**
 Geographically, Albuquerque is isolated in a high desert and semi-arid region making the location unique for agriculture. Other challenges the farm faces are the limited water resources. Instead of adding pesticides or tilling to monocrops the farm focuses on diversity because “when it comes to soil health, you want a diversity of plants and their roots growing for the same reason". Creating room for pollinator habitats for their different food sources to thrive during different seasons. 
@@ -61,7 +63,7 @@ Geographically, Albuquerque is isolated in a high desert and semi-arid region ma
 	
 # **Colonization of New Mexico**
 {% include typography/aside.html class="right" text="
-Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” " %}
+Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” - Ian Colburn " %}
 
 ‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 
@@ -76,8 +78,9 @@ MoGro Mobile Grocery, Tiny Grocer ABQ.
 
 [^1]
 
-[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
+[^1]: 
 
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/farm-of-song-potatoes.png
+" %}
 
 > This is a block quote,
