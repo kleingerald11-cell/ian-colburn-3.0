@@ -33,8 +33,7 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
 
 # **Introduction**
 <audio controls>
-  <source src="{{ 'images/farm-of-song-audio.mp3' | relative_url }}" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="{{ 'seedling/images/farm-of-song-audio.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 
