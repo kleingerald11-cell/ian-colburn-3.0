@@ -31,8 +31,6 @@ Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practic
   src="audio/farm-of-song-audio.mp3"
 %}
 
-
-
 ## **Who is Ian Colburn?**
 Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
@@ -68,14 +66,12 @@ Although a small farm they do not compromise on their political values. Believin
 
 # **Ecology**
 Geographically, Albuquerque is isolated in a high desert and semi-arid region making the location unique for agriculture. Other challenges the farm faces are the limited water resources. Instead of adding pesticides or tilling to monocrops the farm focuses on diversity because “when it comes to soil health, you want a diversity of plants and their roots growing for the same reason". Creating room for pollinator habitats for their different food sources to thrive during different seasons. 
-	
-Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. 
 
 {% include scrollybox/bg.html
   image-path="images/farm-of-song-potatoes.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content=' Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. '
 %}
 
 {% include images/figure.html
@@ -85,18 +81,15 @@ caption="Market booth at the Albuquerque Railyards Market, Farm of song Instagra
 image-path="images/farm-of-song-market-booth.png"
 %}
 
-
-
 # **Colonization of New Mexico**
 {% include typography/aside.html class="left" text="
 Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” " %}
-
 
 ‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
 
 # **Conclusion**
 
-## Why should you support ‘Farm of Song’?
+### Why should you support ‘Farm of Song’?
 Farm of Song exemplifies the principles of Sustainable Local Food Systems development in New Mexico. Beyond growing crops with organic practices, Farm of Song has a community and forward thinking focused approach to their practices not only as a farm, but as a community space. 
 
 ## Where can ‘Farm of Song’ produce be purchased?
@@ -105,5 +98,10 @@ Farm of Song products can also be found at MoGro Mobile grocery and at the Tiny 
 MoGro Mobile Grocery, Tiny Grocer ABQ. [^note1]
 
 [^note1]:https://www.mogro.net, https://tinygrocerabq.com
+
+# Bibliography 
+Images:
+	https://www.instagram.com/farmofsong/
+	https://www.facebook.com/mogromobile/
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
