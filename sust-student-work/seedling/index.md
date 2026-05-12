@@ -1,86 +1,154 @@
 ---
-title: Seedling
+title: Sapling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/seedling-card.png
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/mvh-hist-common-room.jpg
+header-image: images/sapling-card.png
+thumbnail: images/sapling-card.png
+summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
 header-position: 0px
-toc-section: first
-geo: [37.88, -81.08]
-placename: New River Gorge National Park
+toc-section: second
+geo: [41.240000, -81.550000]
+placename: Cuyahoga Valley National Park
 tags:
     - history
-    - campus
+    - nature
 ---
-# **‘Farm of Song’** 
 
-## Narrated by: 
-Ian Colburn, Farm of Song
-## Interviewed by: 
-Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
-## Web Profile by: 
-Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
+# A Sapling Essay
+This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
 
-# **Introduction**
+**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
 
-<audio controls>
-  <source src="URL-to-your-audio-file.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+The text below includes both explanations and filler content to show how these components work in practice.
 
-## **Who is Ian Colburn?**
+
+## Building on Seedling Basics
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, from Mogro mobile grocery facebook page"
+class="right"
+width="48%"
+caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+image-path="images/mvh-history-stays.jpg"
 %}
-Ian is one of the three co-owners and founders of Farm of Song. At the time of this interview, Ian was 38 years old and has been farming since 2013. Initially, Ian worked in community gardens and an organic grocery store before he turned to farming in Albuquerque. Through making connections with the community, he met people from Throughout the state of New Mexico from whom he learned how to farm. After this experience, inspired building long term relationships with a crew of local growers. If you asked his crew about him, they would say Ian is the type of person who loves to learn. 
 
-## **How did Farm of Song come to be?**
-Farm of Song is a Cooperatively owned farm comprising 2.4 acres, 1.5 of which are in production; growing 30+ crops with organic practices. 
+Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
 
-# **Education** 
-“Worried about the impacts of humanity, particularly, the western world on our environment and then that environment, those like pollutants and whatnot on people's health.” 
+[^note1]: Footnotes continue to work exactly as before. All your Seedling skills carry forward.
 
-Our modern food systems are not in essence conducive to positive sustainable growth. Farm song understands that a future where smaller but more frequent food systems appear to support, and create community. 
-Farm of song is exploring its potential as a multi-usage space, with Ian speaking on the potential of live events, gatherings and other community events on the ‘Farm of Song’ property. 
+This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.
 
-# **Community & Political Values**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
+
+## Your First Scrollybox
+Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
+
+{% include scrollybox/bg.html
+  image-path="images/mvh-women-supervision.jpg"
+  above-box-space = "100vh"
+  below-box-space = "80vh"
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+%}
+
+
+## What Just Happened?
+That was a **scrollybox**—text that appears in a semi-transparent box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
+
+**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
+
+**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
+
+
+## Pull Quotes Still Work
 {% include typography/aside.html class="left" text="
-"My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.” -Ian Colburn
- " %}
+This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
 
-From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
-	Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. He states he’s not sure how his farm can combat the big industry “[I] know that this sort of work is part of the peace economy that everyone here deserves." - Ian Colburn
+Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
 
-# **Ecology**
-Geographically, Albuquerque is isolated in a high desert and semi-arid region making the location unique for agriculture. Other challenges the farm faces are the limited water resources. Instead of adding pesticides or tilling to monocrops the farm focuses on diversity because “when it comes to soil health, you want a diversity of plants and their roots growing for the same reason". Creating room for pollinator habitats for their different food sources to thrive during different seasons. 
-	Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds. 
-	
-# **Colonization of New Mexico**
-{% include typography/aside.html class="right" text="
-Acknowledging New Mexico’ colonial past, “we're exploited for our land and labor for military production.” - Ian Colburn " %}
+- **Pull quotes** emphasize key text within ongoing paragraphs
+- **Scrollyboxes** create immersive moments that break away from normal flow
 
-‘Farm of Song’ Operates on the principle of asking the question; How can we continue to make more arable land and viable food production in the region?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
 
-# **Conclusion**
-## Why should you support ‘Farm of Song’?
-Farm of Song exemplifies the principles of Sustainable Local Food Systems development in New Mexico. Beyond growing crops with organic practices, Farm of Song has a community and forward thinking focused approach to their practices not only as a farm, but as a community space. 
-## Where can ‘Farm of Song’ produce be purchased?
-Farm of Song products are frequently available at local growers markets, namely the Rail Yards market. 
-Farm of Song products can also be found at MoGro Mobile grocery and at the Tiny Grocer ABQ. Availability of Farm of song Products is seasonal not always constant. 
-MoGro Mobile Grocery, Tiny Grocer ABQ. 
-[[https://www.mogro.net]], [[https://tinygrocerabq.com]] 
 
-[^1]
+## Image Carousels for Comparisons
+Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
 
-[^1]: 
+{% assign images =
+"images/mvh-menu.jpg,
+images/mvh-history-stays.jpg,
+images/mvh-room-cost.jpg" | split: ','
+%}
 
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/farm-of-song-potatoes.png
-" %}
+{% include images/carousel.html
+id="first"
+images=images
+%}
 
-> This is a block quote,
+**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
+
+**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
+
+
+## Larger Images
+{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+
+Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+## Block Quotes for Primary Sources
+Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est.
+
+> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+
+Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
+
+
+## What You've Learned in Sapling
+If you can create a Sapling essay, you can:
+
+- **Use scrollyboxes** to overlay text on full-screen background images
+- **Control pacing** with scroll space parameters
+- **Add image carousels** for comparing multiple related images
+- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
+- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
+
+**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
+
+
+## Bibliography
+
+- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+
+- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+
+---
+
+## Ready to Create Your Own?
+
+**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
+
+**Already have a Xanthan site?** To make your own Sapling essay:
+
+1. **Duplicate this folder** (`scrollstories/sapling/`) and rename it for your topic
+2. **Replace the text** with your own content, keeping the structure
+3. **Add your own images** to the `images/` folder
+4. **Update the front matter** at the top (title, author, date, header image, etc.)
+5. **Customize components** - Add or remove scrollyboxes, carousels, and asides as needed
+
+**What makes Sapling different from Seedling?**
+- Background scrollyboxes for immersive text overlays
+- Image carousels for comparing multiple images
+- More sophisticated visual storytelling
+- All Seedling components still work
+
+Ready for even more? Check out the [Forest template](../forest/) for advanced features like background switching and side-scrolling.
+
+{% include scrollybox/auto-scroll.html speed=1.5 %}
