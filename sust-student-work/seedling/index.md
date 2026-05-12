@@ -4,7 +4,7 @@ author: Gerald Klein and Rae Bretado
 layout: scrollstory
 date: 2026-5-12
 header-image: images/farm-of-song-header-purple-produce.png
-thumbnail: images/sapling-card.png
+thumbnail: images/farm-of-song-market-booth.png
 summary: An oral hisotry of farming along the middle rio grande- Farm of Song
 header-title:
 header-position: 0px
